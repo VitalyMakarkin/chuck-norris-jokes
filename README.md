@@ -1,2 +1,8 @@
 # chuck-norris-jokes
-based on api.chucknorris.io
+
+Purpose:
+Demonstrate development skills
+
+Requirements:
+Use tools: OkHttp, Hilt
+Use open web api: api.chucknorris.io
